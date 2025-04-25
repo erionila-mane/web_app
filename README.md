@@ -7,6 +7,7 @@ This web app also has a search and it meets the requirements asked by the nearbl
  In order to use this.
  Make sure your computer has the basic packages and has updated Node package manager.
  Download all the files in folder.
- Open the folder in your terminal. 
- Use the command "npm start", it should automatically open the web app in your default browser.
+ Open the folder in your terminal.
+ First install npm using the command "install npm".
+ Then use the command "npm start", it should automatically open the web app in your default browser.
  If it doesn't happen, just open any browser and go to"http://localhost:3000/".
